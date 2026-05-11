@@ -1,2 +1,2 @@
 # DarrenGMorgan.github.io
-This is the repository for my Github Pages account.
+This is the repository for my Github Pages site.
